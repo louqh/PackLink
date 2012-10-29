@@ -3,7 +3,7 @@
  *
  *
  *
- * Copyright (C) 2012-10-17 liutos mat.liutos@gmail.com
+ * 
  */
 #include <stdlib.h>
 #include <stdio.h>
