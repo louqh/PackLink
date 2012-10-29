@@ -3,7 +3,7 @@
  *
  * Search a binary tree and tell the result and its depth.
  *
- * Copyright (C) 2012-10-22 liutos <mat.liutos@gmail.com>
+ * 
  */
 #include <stdlib.h>
 #include <stdio.h>
