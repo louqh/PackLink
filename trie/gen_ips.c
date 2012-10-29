@@ -1,9 +1,6 @@
 /*
  * gen_ips.c
  *
- *
- *
- * Copyright (C) 2012-10-19 liutos <mat.liutos@gmail.com>
  */
 #include <stdio.h>
 #include <stdlib.h>
