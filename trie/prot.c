@@ -3,7 +3,6 @@
  *
  * A try of implementing the Trie trees.
  *
- * Copyright (C) 2012-10-19 liutos <mat.liutos@gmail.com>
  */
 #include <stdlib.h>
 #include <stdio.h>
